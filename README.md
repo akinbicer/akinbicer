@@ -8,42 +8,41 @@ I have a strong academic background in Accounting and Finance, but my true passi
 
 In the realm of software development, I excel as a Computing Specialist, DevOps Specialist, and Software Development Specialist. I am experienced in the following technologies:
 
-- Programming Languages: C / C++ / C# / Java / Python / Shell Scripting
-- Web Development: HTML / CSS / JavaScript / jQuery / Bootstrap / Angular / Node.js / React / Vue.js
-- Version Control: TFS / Subversion / Git
-- Image Processing: OpenCV / EmguCV
-- Messaging: RabbitMQ
-- Service Discovery: Consul
+- **Programming Languages:** C / C++ / C# / Java / Python / Shell Scripting
+- **Web Development:** HTML / CSS / JavaScript / jQuery / Bootstrap / Angular / Node.js / React / Vue.js
+- **Version Control:** TFS / Subversion / Git
+- **Image Processing:** OpenCV / EmguCV
+- **Messaging:** RabbitMQ
+- **Service Discovery:** Consul
 
 ## 🗄️ Database Development and Management
 
 I have expertise in database development and management, working with both SQL and NoSQL databases:
 
-- SQL: MSSQL / MySQL / PostgreSQL / Oracle / SQLite
-- NoSQL: MongoDB
+- **SQL:** MSSQL / MySQL / PostgreSQL / Oracle / SQLite
+- **NoSQL:** MongoDB
 
 ## 🌐 IT Management
 
 In the field of IT management, I have hands-on experience with the following technologies:
 
-- Office 365
-- Virtualization: KVM / Hyper-V / VMware ESXI
+- **Office 365**
+- **Virtualization:** KVM / Hyper-V / VMware ESXI
 
 ## ⚙️ DevOps Management
 
 I am well-versed in DevOps practices and have worked with the following tools:
 
-- Containerization: Docker
-- Continuous Integration and Deployment: Jenkins
-- Container Orchestration: Kubernetes
-- Code Quality: SonarQube
-- Continuous Deployment: ArgoCD
+- **Containerization:** Docker
+- **Continuous Integration and Deployment:** Jenkins
+- **Container Orchestration:** Kubernetes
+- **Code Quality:** SonarQube
+- **Continuous Deployment:** ArgoCD
 
 ## 🚀 Projects
 
 You can find some of the projects I've worked on in my repositories. Feel free to explore them to see more of my work!
 
-<!-- Sosyal Medya Bağlantıları -->
 ## 🔗 Connect
 
 You can find me on:
