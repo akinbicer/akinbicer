@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**akinbicer/akinbicer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Akin Bicer, and I'm thrilled to connect with you! I have a strong academic background in Accounting and Finance, earning an excellent degree during my high school years. However, my true passion lies in the field of Information Technologies. Over the past six years, I have dedicated myself to developing new skills and expanding my knowledge in this dynamic field.
 
-Here are some ideas to get you started:
+In the realm of Information Technologies, I excel as a Computing Specialist, DevOps Specialist, and Software Development Specialist. These roles have allowed me to leverage my strengths and contribute to various aspects of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Software Development
+
+- Programming Languages: C / C++ / C# / Java / Python / Shell Scripting
+- Web Development: HTML / CSS / JavaScript / jQuery / Bootstrap / Angular / Node.js / React / Vue.js
+- Version Control: TFS / Subversion / Git
+- Image Processing: OpenCV / EmguCV
+- Messaging: RabbitMQ
+- Service Discovery: Consul
+
+## Database Development and Management
+
+- SQL: MSSQL / MySQL / PostgreSQL / Oracle / SQLite
+- NoSQL: MongoDB
+
+## IT Management
+
+- Office 365
+- Virtualization: KVM / Hyper-V / VMware ESXI
+
+## DevOps Management
+
+- Containerization: Docker
+- Continuous Integration and Deployment: Jenkins
+- Container Orchestration: Kubernetes
+- Code Quality: SonarQube
+- Continuous Deployment: ArgoCD
+
+In my GitHub profile, I share my projects and showcase my passion for technology. I thrive on chasing creative ideas and crafting innovative solutions. If you're interested in collaborating on a project or learning more, please don't hesitate to reach out.
+
+Thank you, and happy coding!
