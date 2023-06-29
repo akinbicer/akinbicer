@@ -12,7 +12,7 @@ I'm Akın BİÇER, a passionate software developer and technology enthusiast. We
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akinbicer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akinbicer&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=akinbicer&theme=dark&no-frame=false&no-bg=true&margin-w=8)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
