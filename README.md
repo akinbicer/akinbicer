@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Akin Bicer, a passionate software developer and technology enthusiast. Welcome to my GitHub profile!<br><br>I have a strong academic background in Accounting and Finance, but my true passion lies in the field of Information Technology. Over the past six years, I have dedicated myself to developing new skills and expanding my knowledge in this dynamic field.
+I'm Akın BİÇER, a passionate software developer and technology enthusiast. Welcome to my GitHub profile!<br><br>I have a strong academic background in Accounting and Finance, but my true passion lies in the field of Information Technology. Over the past six years, I have dedicated myself to developing new skills and expanding my knowledge in this dynamic field.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/akin.bicer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akinbicer) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20197414) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/akinbicer__) 
